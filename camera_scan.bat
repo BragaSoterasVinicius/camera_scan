@@ -12,3 +12,4 @@ set numeroDeCameras = 0
 echo "Wifi escaneado, %numeroDeCameras% câmeras conectadas."
 pause
 
+
